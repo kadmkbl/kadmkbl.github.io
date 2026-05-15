@@ -163,7 +163,7 @@ Sicong Liu, Bin Guo, **Ke Ma**, Zhiwen Yu, Junzhao Du
 
 # 🤝 Service and Skills
 
-- **Reviewer**: Ubicomp (2026-), MM (2026-), ACL (2026-), NeurIPS (2025-), CVPR (2025-),AAAI (2024-).
+- **Reviewer**: Ubicomp (2026-), MM (2026-), ACL (2026-), NeurIPS (2025-), CVPR (2025-), AAAI (2024-).
 - **Membership**: IEEE Student Member, CVF Member, CCF Student Member.
 - **Programming**: Python (PyTorch, TensorFlow, MindSpore), C/C++, Matlab, LATEX.
 - **Languages**: Chinese (Native), English (CET-6 560, CET-4 581).
