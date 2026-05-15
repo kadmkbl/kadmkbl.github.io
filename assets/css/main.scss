@@ -87,6 +87,15 @@
 
 }
 
+/* Center thumbnail in the image column (e.g. portrait aspect); desktop only */
+.paper-box.paper-box--center-image {
+    @include breakpoint($medium) {
+        .paper-box-image {
+            justify-content: center;
+        }
+    }
+}
+
 $scroll_offset : 2em;
 h1:before, .anchor:before { 
     content: ''; 
