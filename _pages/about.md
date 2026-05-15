@@ -85,13 +85,6 @@ My research spans **Mobile Computing and Resource-Constrained AI** (context-awar
 - Sicong Liu, Hao Luo, XiaoChen Li, Yao Li, Bin Guo, Zhiwen Yu, YuZhan Wang, **Ke Ma**, YaSan Ding, Yuan Yao. **AdaKnife: Flexible DNN Offloading for Inference Acceleration on Heterogeneous Mobile Devices.** *IEEE TMC 2024 (CCF-A, SCI Q1).*
 - Yuzhan Wang, Sicong Liu, Bin Guo, Boqi Zhang, **Ke Ma**, Yasan Ding, Hao Luo, Yao Li, Zhiwen Yu. **Adascale: Dynamic Context-Aware DNN Scaling via Automated Adaptation Loop on Mobile Devices.** *IEEE Internet of Things Journal 2025 (CCF-C, SCI Q2).*
 
-## Manuscripts under review
-
-- Ho Shu Chan, Jiaqi Tang, **Ke Ma**, Qifeng Chen. **AutoHalluc: Self-Reducing Video Understanding Hallucination via Temporally-Grounded Agentic Verification.** *NeurIPS 2026 (CCF-A), **co-first author**.*
-- Jiaqi Tang, Junwei Dai, **Ke Ma**, Hao Lu, Ruizheng Wu, Xiaogang Xu, Cheng Fang, Bin Guo, Jiangbo Lu, Wei Wei, Ying-Cong Chen, Qifeng Chen. **From Hawk to Hawk+: Motion-Aware Spatio-Temporal Modeling for Open-World Video Anomaly Understanding.** *IEEE TPAMI (CCF-A, SCI Q1), **co-first author**.*
-- Mingze Li, Bin Guo, **Ke Ma**, Huan Zhou, Yasan Ding, Zhiwen Yu. **Efficient Decentralized Modular Continual Learning via Aligned Modularization and Selective Collaboration.** *IEEE TMC (CCF-A, SCI Q1).*
-
-
 # 🎖 Honors and Awards
 
 - *2024* **Best Paper Honorable Mention**, ACM Conference on Embedded Networked Sensor Systems (SenSys).
