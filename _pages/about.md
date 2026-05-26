@@ -53,6 +53,8 @@ My research spans **Mobile Computing and Resource-Constrained AI** (context-awar
 
 *ACL 2026 (CCF-A)*
 
+*Media:* [机器之心](https://mp.weixin.qq.com/s/7LqkM1aj6GH_5dXR3vkFZA?scene=1&click_id=73)
+
 </div>
 </div>
 
@@ -77,7 +79,7 @@ Cheng Fang, Zimu Zhou<sup>&dagger;</sup>, **Ke Ma**, Bin Guo
 
 *CVPR 2025 (CCF-A; **Highlight**, top 3%, 387/13008)*
 
-*Media:* [极市平台](https://mp.weixin.qq.com/s/qQLr_avylEJ7FYHh2Aky0Q)
+*Media:* [极市平台](https://mp.weixin.qq.com/s/qQLr_avylEJ7FYHh2Aky0Q) | [CCF多媒体专委会](https://mp.weixin.qq.com/s/xMwOhDFYCucDwjXRIi0fzg)
 
 </div>
 </div>
