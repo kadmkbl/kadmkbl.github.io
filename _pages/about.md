@@ -79,7 +79,7 @@ Cheng Fang, Zimu Zhou<sup>&dagger;</sup>, **Ke Ma**, Bin Guo
 
 *CVPR 2025 (CCF-A; **Highlight**, top 3%, 387/13008)*
 
-*Media:* [极市平台](https://mp.weixin.qq.com/s/qQLr_avylEJ7FYHh2Aky0Q) | [CCF多媒体专委会](https://mp.weixin.qq.com/s/xMwOhDFYCucDwjXRIi0fzg)
+*Media:* [极市平台](https://mp.weixin.qq.com/s/qQLr_avylEJ7FYHh2Aky0Q), [CCF多媒体专委会](https://mp.weixin.qq.com/s/xMwOhDFYCucDwjXRIi0fzg)
 
 </div>
 </div>
