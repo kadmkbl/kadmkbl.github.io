@@ -149,7 +149,13 @@ Sicong Liu, Bin Guo, **Ke Ma**, Zhiwen Yu, Junzhao Du
   - **Book Project:** Co-authored Chapter 8 of [*Introduction to AIoT*](http://crowdhmt.com/AIOTbook.html), Chapters 3 & 4 of [*Human–Machine–Thing Crowd Intelligence Computing*](http://crowdhmt.com/book.html).
 
 
+# 🎤 Talks
+
+- *May 31, 2026*: **Proactive Streaming Video Agent**, 腾讯青云技术沙龙. Xi'an, China.
+
+
 # ✨ Other Experience
+
 - *2018.09 – 2020.09*, **Vice President & Minister of Arts**, Student Union, NWPU.
   - Led arts programming and major events (e.g., Freshmen Welcome Gala, “12.9” patriotic choir). Recognized as Outstanding Student Union Member and Outstanding League Member.
 
