@@ -25,6 +25,7 @@ My research spans **Mobile Computing and Resource-Constrained AI** (context-awar
 
 # 🔥 News
 
+- *Aug 2026*: &nbsp;🎉 Our paper **DeModCL** was accepted to **IEEE TMC**.
 - *Apr 2026*: &nbsp;🎉 Our paper **Response-G1** was accepted to **ACL 2026**.
 - *Mar 2026*: &nbsp;🎉 Our paper **TaskIT** was accepted to **CVPR 2026**.
 - *May 2025*: &nbsp;🎉 Our paper **AdaShift** was accepted to **IEEE TMC**.
@@ -136,6 +137,8 @@ Sicong Liu, Bin Guo, **Ke Ma**, Zhiwen Yu, Junzhao Du
 
 
 # 💻 Internships and Professional Experience
+
+- *2026.06 – Present*, **AI Engineer (Intern), Qingyun Program**, **Tencent Hunyuan**, Beijing, China. Mentor: Dr. Tianyu Pang.
 
 - *2024.11 – 2025.04*, **AI Engineer (Intern)**, **2012 Labs, Future Device Department, Huawei**, Beijing, China. Mentor: Dr. Zhenzhong Kou.
   - **Ticketing Engine Optimization:** Improved system responsiveness for high-concurrency ticketing apps (e.g., 12306, Damai) on HarmonyOS via DVFS-based performance tuning.  
