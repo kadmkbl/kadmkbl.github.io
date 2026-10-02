@@ -71,6 +71,18 @@ Cheng Fang, Zimu Zhou<sup>&dagger;</sup>, **Ke Ma**, Bin Guo
 </div>
 </div>
 
+<div class='paper-box paper-box--center-image'><div class='paper-box-image'><div><div class="badge">Ubicomp 2026</div><img src='images/KAYN_500x257.png' alt="Knowing All You Need" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Knowing All You Need: An Intent-Driven Proactive Assistant for All-Day Wearable Intelligence**
+
+Xueting Han, **Ke Ma**, Bin Guo<sup>&dagger;</sup>, Tong Wu, Zhenrui Wen, Ziheng Wang, Yuefan Liao
+
+*Ubicomp 2026 (CCF-A)*
+
+</div>
+</div>
+
 <div class='paper-box paper-box--center-image'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/SURGEON_500x200.png' alt="SURGEON" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -174,7 +186,7 @@ Sicong Liu, Bin Guo, **Ke Ma**, Zhiwen Yu, Junzhao Du
 
 # 🤝 Service and Skills
 
-- **Reviewer**: Ubicomp (2026-), MM (2026-), ACL (2026-), NeurIPS (2025-), CVPR (2025-), AAAI (2024-).
+- **Reviewer**: Ubicomp (2026-), MM (2026-), ACL (2026-), TMC (2026-), NeurIPS (2025-), CVPR (2025-), AAAI (2024-).
 - **Membership**: IEEE Student Member, CVF Member, CCF Student Member.
 - **Programming**: Python (PyTorch, TensorFlow, MindSpore), C/C++, Matlab, LATEX.
 - **Languages**: Chinese (Native), English (CET-6 560, CET-4 581).
