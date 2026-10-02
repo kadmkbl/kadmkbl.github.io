@@ -25,6 +25,7 @@ My research spans **Mobile Computing and Resource-Constrained AI** (context-awar
 
 # 🔥 News
 
+- *Aug 2026*: &nbsp;🎉 Our paper **Knowing All You Need** was accepted to **Ubicomp 2026**.
 - *Aug 2026*: &nbsp;🎉 Our paper **DeModCL** was accepted to **IEEE TMC**.
 - *Apr 2026*: &nbsp;🎉 Our paper **Response-G1** was accepted to **ACL 2026**.
 - *Mar 2026*: &nbsp;🎉 Our paper **TaskIT** was accepted to **CVPR 2026**.
